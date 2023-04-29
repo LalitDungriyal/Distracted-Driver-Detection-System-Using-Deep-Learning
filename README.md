@@ -22,7 +22,7 @@ The project uses CNN(Convolutional Neural Networks) to classify the images.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Datasets](#DataSet)
-- [Deep Learning Model Used] (#Deep-Learning-Model-Used)
+- [Deep Learning Model Used](#Deep-Learning-Model-Used)
 - [Python Dependencies](#PythonDependencies)
 - [Credits](#credits)
 
